@@ -1,0 +1,2 @@
+pretrained_model_dir: save/train.gpt2.roberta-large.mnli/dilm.lm/step_50000/generator/
+checkpoint_name: last-ckpt

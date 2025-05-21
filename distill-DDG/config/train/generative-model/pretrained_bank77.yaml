@@ -1,0 +1,2 @@
+pretrained_model_dir: "/root/ww-xd/WW/save/train.gpt2.roberta-large.bank77/dilm.lm/step_50000/generator/"
+checkpoint_name: last-ckpt
